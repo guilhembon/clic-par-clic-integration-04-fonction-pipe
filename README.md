@@ -31,7 +31,7 @@ Contenu, à l'état montré en fin de vidéo :
 ## Prérequis
 
 - Le studio 3D dans sa dernière version, déployé dans le même cluster qu'Open WebUI : dépôt
-  [clic-par-clic-studio3d-06-stockage-s3](https://github.com/guilhem-/clic-par-clic-studio3d-06-stockage-s3)
+  [clic-par-clic-studio3d-06-stockage-s3](https://github.com/guilhembon/clic-par-clic-studio3d-06-stockage-s3)
   (image `studio3d:5`, Redis, workers, bibliothèque d'assets, stockage S3).
 - Open WebUI 0.11 (tourné sur 0.11.3), un compte **administrateur** et son jeton ; un groupe
   d'utilisateurs (« Graphistes » dans la vidéo) ; un modèle de l'instance pour écrire le code.
@@ -110,9 +110,9 @@ verifier('charger_asset("canape")', {"bureau_metal", "lampe_bureau"})
 ## Série
 
 - Module précédent : **Un widget de suivi dans la conversation** —
-  [clic-par-clic-integration-03-widget-suivi](https://github.com/guilhem-/clic-par-clic-integration-03-widget-suivi).
+  [clic-par-clic-integration-03-widget-suivi](https://github.com/guilhembon/clic-par-clic-integration-03-widget-suivi).
 - Module suivant : **Un bouton sous chaque réponse : une fonction Action** —
-  [clic-par-clic-integration-05-fonction-action](https://github.com/guilhem-/clic-par-clic-integration-05-fonction-action).
+  [clic-par-clic-integration-05-fonction-action](https://github.com/guilhembon/clic-par-clic-integration-05-fonction-action).
 - Construire le studio : série « Créer un service d'IA compatible agentique : le studio 3D »
   (dépôts `clic-par-clic-studio3d-01` à `06`).
 
